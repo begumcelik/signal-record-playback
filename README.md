@@ -18,7 +18,7 @@ Developed with:
 ## Download
 - Install Teensyduino software add-on with Arduino IDE. ([Teensyduino version 1.57](https://www.pjrc.com/teensy/td_download.html))
 - Install [SD library](https://www.arduino.cc/reference/en/libraries/sd/) from `Sketch > Include Library > Manage Libraries`
-- Record script is written in [Python3.9.](https://www.python.org/downloads/release/python-390/). To run the script you need to install following packages:
+- Record script is written in [Python3.9.](https://www.python.org/downloads/release/python-390/) To run the script you need to install following packages:
 ```
 pip install pyserial
 pip install pandas
@@ -26,12 +26,13 @@ pip install pandas
 - Download `signal-recorder.ino` `record-playback.ino` and `serial_read.py`.
 
 ## Step 1: Recording the Signal Output
-
+- In order to record the signal output of the computer, the DeLock DB37MT connector is inserted into the relay card (SMARTLAB, 8 Channels Relay Output) of the computer and wired to the Teensy board. (input pins: 34-41)
 - Open `signal-recorder.ino` in Teensyduino.
-- Run `serial_read.py`
+- Change the path to where you want to save your csv files and run `serial_read.py`
 `python3.9 '/path/to/serial_read.py'`
 
 ### Output
+- 
 
 ## Step 2: Playback the Recording
 
