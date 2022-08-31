@@ -8,8 +8,7 @@ _This project is developed in ZKM Karlsruhe._
 Developed with:
 - [Arduino Teensy 4.1.](https://www.pjrc.com/store/teensy41.html)
 - [Audio Shield for Teensy 4](https://www.pjrc.com/store/teensy3_audio.html)
-![arduino-teensy](https://user-images.githubusercontent.com/41292368/187683229-ca1187e1-2883-411c-a53d-c4ffb82bfd86.jpg)
-![Arduino Teensy 4.1. with Audio Shield](https://user-images.githubusercontent.com/41292368/187682423-b4ac91c3-8e55-4a6e-818f-4918eab8cc6d.jpg)
+![Arduino Teensy 4.1. with Audio Shield](https://user-images.githubusercontent.com/41292368/187683526-42c8f6d2-3a40-4ef7-9cfa-d57cf9e172eb.jpg)
 
 ## Supervisor
 - [Daniel Heiss](https://zkm.de/de/person/daniel-heiss)
