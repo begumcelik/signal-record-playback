@@ -9,7 +9,7 @@ Developed with:
 - [Audio Shield for Teensy 4](https://www.pjrc.com/store/teensy3_audio.html)
 
 ## Supervisor
-- Daniel Heiss
+- [Daniel Heiss](https://zkm.de/de/person/daniel-heiss)
 
 ## Developer
 - Begüm Çelik
