@@ -30,7 +30,9 @@ pip install pandas
 - The python script reads the serial data and writes it into csv file.
 - Open `signal-recorder.ino` in Teensyduino, upload the code into your board.
 - Change the path to where you want to save your csv files and run `serial_read.py` </br>
-```python3.9 '/path/to/serial_read.py'```
+```
+python3.9 '/path/to/serial_read.py'
+```
 
 ### Output
 - The python script will save the signal output to csv file in the following format:
