@@ -16,8 +16,14 @@ Developed with:
 - Begüm Çelik
 
 ## Download
+- Install Teensyduino software add-on with Arduino IDE. ([Teensyduino version 1.57](https://www.pjrc.com/teensy/td_download.html))
+- Install [SD library](https://www.arduino.cc/reference/en/libraries/sd/) from `Sketch > Include Library > Manage Libraries`
 
 ## Step 1: Recording the Signal Output
+
+- Open `signal-recorder.ino` in Teensyduino.
+- Run `serial_read.py`
+`python3.9 '/path/to/serial_read.py'`
 
 ### Output
 
