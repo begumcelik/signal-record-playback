@@ -46,7 +46,8 @@ python3.9 '/path/to/serial_read.py'
 ```
 
 ## Step 2: Playback the Recording
-
+- The csv file consisting of signal output records has to be placed in the SD card inserted into Teensy.
+- 
 
 ## Contact
 begumcelik@sabanciuniv.edu
