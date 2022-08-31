@@ -19,8 +19,10 @@ Developed with:
 - Install Teensyduino software add-on with Arduino IDE. ([Teensyduino version 1.57](https://www.pjrc.com/teensy/td_download.html))
 - Install [SD library](https://www.arduino.cc/reference/en/libraries/sd/) from `Sketch > Include Library > Manage Libraries`
 - Record script is written in [Python3.9.](https://www.python.org/downloads/release/python-390/). To run the script you need to install following packages:
-```pip install pyserial
-pip install pandas```
+```
+pip install pyserial
+pip install pandas
+```
 - Download `signal-recorder.ino` `record-playback.ino` and `serial_read.py`.
 
 ## Step 1: Recording the Signal Output
