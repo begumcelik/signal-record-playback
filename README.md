@@ -25,3 +25,6 @@ Developed with:
 
 ## Contact
 begumcelik@sabanciuniv.edu
+
+## License 
+
