@@ -26,7 +26,7 @@ pip install pandas
 - Download `signal-recorder.ino` `record-playback.ino` and `serial_read.py`.
 
 ## Step 1: Recording the Signal Output
-- In order to record the signal output of the computer, the DeLock DB37MT connector is inserted into the relay card (SMARTLAB, 8 Channels Relay Output) of the computer and is wired to the Teensy board. (input pins: 34-41)
+- In order to record the signal output of the program, the DeLock DB37MT connector is inserted into the relay card (SMARTLAB, 8 Channels Relay Output) of the computer and is wired to the Teensy board. (input pins: 34-41)
 - The python script reads the serial data and writes it into csv file.
 - Open `signal-recorder.ino` in Teensyduino, upload the code into your board.
 - Change the path to where you want to save your csv files and run `serial_read.py` </br>
